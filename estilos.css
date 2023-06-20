@@ -1,0 +1,57 @@
+.ZL1{
+    color: rgb(2, 2, 5);
+}
+°{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.body{
+font-family: 'Roboto','Sans serif';
+
+}
+.contenedor{
+
+   width: 90%; 
+   max-width: 1200px;
+   margin: auto;
+
+}
+
+.bg_animate{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to right,#ffffff,#4942E4 );
+    background-image: url(camaro-zl1-rfx13-4k-dx-2048x1152.jpg);
+}
+
+.hearde_nav{
+    width: 100%;
+    text-align: right;
+}
+
+.hearde_nav h1{
+    color: #ffffff;
+    font-family: 'Galalin';
+
+}
+
+.hearde_nav nav a{
+
+    color: #ffffff;
+    text-emphasis: none;
+    margin-right: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
